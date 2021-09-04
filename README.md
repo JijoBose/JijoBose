@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+Bitcoin: bc1qdc6dt2j35stdgxeyvwpg55qcq8x0ae5va0hvg8
+
 <!--
 <span>
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jijobose&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=grey" />
